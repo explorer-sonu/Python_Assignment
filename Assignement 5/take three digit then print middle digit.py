@@ -1,0 +1,5 @@
+number = int(input("Enter a number:"))
+number = int(number/10)
+answer = (number%10)
+print("Answer:")
+print(answer)

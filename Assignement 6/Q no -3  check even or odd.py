@@ -1,0 +1,1 @@
+print("Number is Odd" if int(input("Enter a number"))%2 else "Number is Even")

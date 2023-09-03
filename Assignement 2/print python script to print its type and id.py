@@ -1,0 +1,12 @@
+a=35
+b=True
+c="sonu"
+d=3.23
+print(id(a))
+print(id(b))
+print(id(c))
+print(id(d))
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
